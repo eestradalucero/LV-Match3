@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aba3281d2cde8f448bb08092118a7fe, type: 3}
+  m_Name: PieceAiValue
+  m_EditorClassIdentifier: 
+  piecesValues:
+  - pieceType: 1
+    possibleTripleValue: 55
+    possibleDupletValue: 27
+  - pieceType: 2
+    possibleTripleValue: 110
+    possibleDupletValue: 55
+  - pieceType: 3
+    possibleTripleValue: 166
+    possibleDupletValue: 83
+  - pieceType: 4
+    possibleTripleValue: 222
+    possibleDupletValue: 111
+  - pieceType: 5
+    possibleTripleValue: 278
+    possibleDupletValue: 92
+  - pieceType: 6
+    possibleTripleValue: 166
+    possibleDupletValue: 83

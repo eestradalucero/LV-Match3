@@ -1,0 +1,15 @@
+{
+    "name": "Match3Assembly",
+    "references": [
+        "GUID:d5589fb5e64b3864c83f01426b7a4151"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
